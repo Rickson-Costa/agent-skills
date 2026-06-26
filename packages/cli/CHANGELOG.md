@@ -1,3 +1,14 @@
+## 1.4.8 (2026-06-26)
+
+### 🩹 Fixes
+
+- **cli:** update command now reinstalls skills to agent dirs after force-downloading fresh content ([b18c25c2c](https://github.com/tech-leads-club/agent-skills/commit/b18c25c2c))
+
+### ❤️ Thank You
+
+- Cursor @cursoragent
+- Waldemar Neto @waldemarnt
+
 ## 1.4.7 (2026-04-20)
 
 ### 🩹 Fixes
