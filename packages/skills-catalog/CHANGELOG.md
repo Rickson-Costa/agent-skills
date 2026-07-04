@@ -1,3 +1,14 @@
+## 0.15.0 (2026-07-04)
+
+### 🚀 Features
+
+- add tlc-generative-engine-optimization skill ([902616480](https://github.com/tech-leads-club/agent-skills/commit/902616480))
+
+### ❤️ Thank You
+
+- Claude Sonnet 4.6
+- Fernando Paladini @paladini
+
 ## 0.14.7 (2026-06-25)
 
 ### 🚀 Features
